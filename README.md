@@ -1,5 +1,5 @@
 **RACIS — Role-Aware Conversational Intelligence System**
-
+---
 Powered by KitOps · Nebius AI · Whisper · Gemini · Pinecone
 
 RACIS is an end-to-end intelligent conversational analysis system that processes audio conversations, separates content by roles (e.g., Doctor–Patient), generates structured insights, and stores the results for context-aware retrieval and chat-based reasoning.
