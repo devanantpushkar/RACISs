@@ -4,8 +4,9 @@ Powered by KitOps · Nebius AI · Whisper · Gemini · Pinecone
 
 RACIS is an end-to-end intelligent conversational analysis system that processes audio conversations, separates content by roles (e.g., Doctor–Patient), generates structured insights, and stores the results for context-aware retrieval and chat-based reasoning.
 
---
+
 **Features**
+---
  Audio → Transcript (Whisper)
 
 Uses OpenAI Whisper for speech-to-text
@@ -13,9 +14,8 @@ Uses OpenAI Whisper for speech-to-text
 Automatically handles .wav and .mp3
 
 FFmpeg path auto-patching for Windows
---
 ** Role-Aware Analysis (Gemini)**
-
+---
 For each role (Role A, Role B):
 
 Summary
