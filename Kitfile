@@ -1,0 +1,19 @@
+manifestVersion: "1.0.0"
+package:
+  name: "racis"
+  version: "0.1.0"
+  description: "Role-Aware Conversational Intelligence System"
+
+code:
+  - path: "app.py"
+  - path: "kitops_integration.py"
+  - path: "kitops_runner.py"
+  - path: "nebius_stub.py"
+  - path: "asr_whisper.py"
+  - path: "role_extract.py"
+  - path: "rag_store.py"
+  - path: "rag_chat.py"
+  - path: "pipeline/kitops.yaml"
+  - path: "pipeline/run_pipeline.py"
+  - path: "tools/make_test_audio.py"
+  - path: "requirements.txt"
